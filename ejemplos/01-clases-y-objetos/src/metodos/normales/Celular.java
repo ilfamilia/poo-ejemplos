@@ -1,4 +1,4 @@
-package clases.metodos;
+package metodos.normales;
 
 class Celular {
     int carga;

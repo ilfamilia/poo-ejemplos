@@ -1,4 +1,4 @@
-package clases.camposstatic;
+package metodos.estaticos;
 
 class PruebaStatic {
 

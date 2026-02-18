@@ -1,4 +1,4 @@
-package clases.camposstatic;
+package campos.estaticos;
 
 public class PruebaStaticApp {
     public static void main(String[] args) {

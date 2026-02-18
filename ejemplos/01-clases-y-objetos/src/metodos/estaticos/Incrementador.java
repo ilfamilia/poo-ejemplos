@@ -1,4 +1,4 @@
-package clases.metodosstatic;
+package metodos.estaticos;
 
 public class Incrementador {
 

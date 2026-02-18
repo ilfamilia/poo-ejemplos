@@ -1,4 +1,4 @@
-package clases.campos;
+package campos.normales;
 
 // Ejemplo de agregación de campos a la clase
 class SoloDatos {

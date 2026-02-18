@@ -1,4 +1,4 @@
-package clases.metodos;
+package metodos.normales;
 
 public class CelularApp {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package clases.campos;
+package campos.normales;
 
 public class SoloDatosApp {
     public static void main(String[] args) {
