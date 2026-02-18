@@ -1,0 +1,7 @@
+package clases.camposstatic;
+
+public class PruebaStatic {
+
+    // Creación de campo estático dentro de la clase
+    static int i = 23;
+}
