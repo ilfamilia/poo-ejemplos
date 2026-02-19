@@ -14,7 +14,7 @@ class Libro {
     }
 
     Libro() {
-        // Esta forma de this solo funciona en el constructor en un metodo normal dará error
+        // Esta forma de this solo funciona en el constructor. En un metodo normal dará error
         // Solo se puede hacer una vez por constructor aunque tengamos muchas sobrecargas
         // Evita tener que repetir código
         this(0, "Vacío", "Anónimo", false);
