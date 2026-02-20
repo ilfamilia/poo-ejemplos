@@ -1,4 +1,4 @@
-package sobrecarga.casting;
+package sobrecarga.promocion;
 
 // Este ejemplo demuestra que aunque no existe una sobrecarga del metodo sumar
 // que reciba un int y un double, Java convierte automáticamente el int a double

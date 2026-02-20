@@ -1,4 +1,4 @@
-package sobrecarga.casting;
+package sobrecarga.promocion;
 
 class Calculadora {
     public int sumar(int a, int b) {
