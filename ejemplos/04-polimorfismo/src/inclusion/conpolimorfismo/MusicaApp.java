@@ -10,6 +10,10 @@ public class MusicaApp {
     }
     public static void main(String[] args) {
         Cuerda guitarra = new Cuerda();
+        Viento flauta = new Viento();
+        Percusion xilofono = new Percusion();
         sonar(guitarra); // Upcasting
+        sonar(flauta);
+        sonar(xilofono);
     }
 }
