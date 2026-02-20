@@ -1,4 +1,4 @@
-package inclusion.sintaxis;
+package inclusion.sinpolimorfismo;
 
 class Instrumento {
     public void tocar(String nota) {

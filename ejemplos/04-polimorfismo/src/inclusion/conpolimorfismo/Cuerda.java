@@ -1,4 +1,4 @@
-package inclusion.sintaxis;
+package inclusion.conpolimorfismo;
 
 // Los objetos de tipo Cuerda son tambien de tipo Instrumento
 // ya que comparten la misma interfaz

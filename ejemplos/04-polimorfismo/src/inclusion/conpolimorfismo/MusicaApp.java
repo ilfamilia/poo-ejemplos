@@ -1,4 +1,4 @@
-package inclusion.sintaxis;
+package inclusion.conpolimorfismo;
 
 // Se crea un metodo tipo estático que recibe un objeto de tipo Instrumento
 // como parámetro. Lo que significa que también podemos pasar como parámetro
