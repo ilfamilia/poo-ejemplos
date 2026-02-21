@@ -36,7 +36,7 @@ class Mensaje {
 
     public void enviar(int nVeces, String mensaje) {
         for (int i = 0; i < nVeces; i++) {
-            System.out.println(nVeces + ". " + mensaje);
+            System.out.println((i + 1) + ". " + mensaje);
         }
     }
 }
