@@ -1,6 +1,6 @@
 package campos.normales;
 
-// Ejemplo de agregación de campos a la clase
+// Ejemplo de declaración de campos (atributos) en una clase.
 class SoloDatos {
     String s;
     int i;

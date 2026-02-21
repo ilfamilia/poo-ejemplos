@@ -5,7 +5,7 @@ public class SoloDatosApp {
 
         SoloDatos datos = new SoloDatos();
 
-        // Ejemplo de acceso a los campos de la clase SoloDatos
+        // Asignación y lectura de campos de instancia.
         datos.s = "Prueba";
         datos.i = 12;
         datos.b = true;
