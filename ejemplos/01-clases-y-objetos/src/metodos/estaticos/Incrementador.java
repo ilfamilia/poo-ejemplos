@@ -3,7 +3,7 @@ package metodos.estaticos;
 public class Incrementador {
 
     // Creación de metodo estático dentro de la clase
-    // Ojo: no se puede llamar metodos no estáticos dentro de metodos estáticos
+    // Ojo: no se pueden llamar métodos no estáticos desde métodos estáticos
     static void incrementar() {
         PruebaStatic.i++;
     }
