@@ -2,6 +2,6 @@ package campos.estaticos;
 
 class PruebaStatic {
 
-    // Creación de campo estático dentro de la clase
+    // Campo static: pertenece a la clase y se comparte entre todas las instancias
     static int i = 23;
 }
