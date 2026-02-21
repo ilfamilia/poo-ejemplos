@@ -2,11 +2,11 @@ package constructor.por_defecto;
 
 public class MuestraApp {
     public static void main(String[] args) {
-        // El compilador llamará al constructor por defecto ya que no se especificó uno en la clase
+        // El compilador genera automáticamente un constructor por defecto cuando la clase
+        // no define ninguno. Este constructor inicializa los campos con sus valores por defecto.
         Muestra m1 = new Muestra();
 
-        // Muestra como los campos de la clase han sido inicializados con valores por defecto
-        // por el constructor para evitar errores de memoria al leer variables no asignadas
+        // Los campos de la clase son inicializados automáticamente con valores por defecto
         System.out.println("Mostrando valores por defecto:");
         System.out.println("i: " + m1.i);
         System.out.println("s: " + m1.s);
